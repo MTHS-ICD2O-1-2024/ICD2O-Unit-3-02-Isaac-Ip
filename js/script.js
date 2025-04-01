@@ -21,6 +21,6 @@ function doMathClicked() {
 
     // output
     document.getElementById("volume").innerHTML =
-      "<p>The area is: " + volumeOfPyramid.toFixed(2) + " cm³. </p>"
+      "<p>The area is: " + volumeOfPyramid.toFixed(2) + " mm³. </p>"
    }
   
