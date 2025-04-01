@@ -17,13 +17,10 @@ function doMathClicked() {
     
     // process
     const volumeOfPyramid = (length * width * height) / 3
-  
-    
-    
+
+
     // output
     document.getElementById("volume").innerHTML =
-    "<p>The volume is: " + volumeOfPyramid.toFixed(2) + " cm³. </p>"
-  }
-  
-  
+      "<p>The area is: " + volumeOfPyramid.toFixed(2) + " cm³. </p>"
+   }
   
